@@ -77,6 +77,11 @@
     <Content Include="bootstrap-4.0.0-dist\js\bootstrap.bundle.min.js" />
     <Content Include="bootstrap-4.0.0-dist\js\bootstrap.js" />
     <Content Include="bootstrap-4.0.0-dist\js\bootstrap.min.js" />
+    <Content Include="Images\default1.jpg" />
+    <Content Include="Images\flower1.jpeg" />
+    <Content Include="Images\flower2.jpg" />
+    <Content Include="Images\flower3.jpg" />
+    <Content Include="Images\lights.jpg" />
     <Content Include="MyCustomStyleSheet.css" />
     <Content Include="SamuIndex1.html" />
     <Content Include="SamuIndex2.html" />
