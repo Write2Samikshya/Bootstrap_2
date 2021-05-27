@@ -91,6 +91,7 @@
     <Content Include="SamuIndex6.html" />
     <Content Include="SamuIndex7.html" />
     <Content Include="SamuIndex8.html" />
+    <Content Include="SamuIndex9.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
