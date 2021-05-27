@@ -84,6 +84,7 @@
     <Content Include="Images\lights.jpg" />
     <Content Include="MyCustomStyleSheet.css" />
     <Content Include="SamuIndex1.html" />
+    <Content Include="SamuIndex10.html" />
     <Content Include="SamuIndex2.html" />
     <Content Include="SamuIndex3.html" />
     <Content Include="SamuIndex4.html" />
