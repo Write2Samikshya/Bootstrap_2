@@ -8,7 +8,7 @@
     text-align:center;
     font-size:large;
 }
-.sidebarContent {
+/*.sidebarContent {
     margin-bottom: 10px;
     min-height: 150px;
     background-color: olive;
@@ -20,6 +20,21 @@
     margin-bottom: 10px;
     min-height: 310px;
     background-color: dodgerblue;
+    text-align: center;
+    font-size: large;
+}*/
+
+.SideBarContent{
+    margin-bottom:10px;
+    min-height:150px;
+    background-color:olive;
+    text-align:center;
+    font-size:large;
+}
+.MainBarContent {
+    margin-bottom: 10px;
+    min-height: 310px;
+    background-color: darkolivegreen;
     text-align: center;
     font-size: large;
 }
