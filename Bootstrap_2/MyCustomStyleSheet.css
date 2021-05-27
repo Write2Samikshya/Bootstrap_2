@@ -8,3 +8,40 @@
     text-align:center;
     font-size:large;
 }
+/*.sidebarContent {
+    margin-bottom: 10px;
+    min-height: 150px;
+    background-color: olive;
+    text-align: center;
+    font-size: large;
+}
+
+.mainContent {
+    margin-bottom: 10px;
+    min-height: 310px;
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: large;
+}*/
+
+.SideBarContent{
+    margin-bottom:10px;
+    min-height:150px;
+    background-color:olive;
+    text-align:center;
+    font-size:large;
+}
+.MainBarContent {
+    margin-bottom: 10px;
+    min-height: 310px;
+    background-color: darkolivegreen;
+    text-align: center;
+    font-size: large;
+}
+.MySecondClass {
+    margin-bottom: 10px;
+    min-height: 310px;
+    background-color: darkolivegreen;
+    text-align: center;
+    font-size: large;
+}
